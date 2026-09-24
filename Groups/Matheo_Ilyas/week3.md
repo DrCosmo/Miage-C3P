@@ -15,3 +15,9 @@ On a regardé les vidéos et les diapos de :
 On a compris que super est l'objet qui reçoit le message.
 
 On a continué les échecs.
+
+On a créé une classe de test "MyPawnTest"  pour tester les comportements des pions.
+
+On a pu modifier la récupération des cases valides.
+
+Et nous avons inspecté le code avec des breakpoints et le debugger.
