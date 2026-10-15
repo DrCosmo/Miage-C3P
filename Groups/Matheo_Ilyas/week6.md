@@ -24,3 +24,7 @@ On a aussi fix certains tests.
 On a essayé de travailler sur la promotion du pion mais à chaque fois qu'on essayait de rajouter un panel dans l'UI du jeu, pharo crashait.
 
 On a aussi réécrit attackingSquare dans nos classes pawn pour que quand le roi vérifie les cases menacées, on ne regarde que les cases où les pawns peuvent attaquer.
+
+### Lien du gitHub
+
+https://github.com/IlyasMokhtari/Chess
