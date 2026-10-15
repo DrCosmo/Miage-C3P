@@ -28,3 +28,5 @@ On a aussi réécrit attackingSquare dans nos classes pawn pour que quand le roi
 ### Lien du gitHub
 
 https://github.com/IlyasMokhtari/Chess
+
+(Tout le projet a été réalisé en pair programming, que ce soit pendant les heures de TP ou bien chez nous via Discord)
